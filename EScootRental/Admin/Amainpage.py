@@ -351,10 +351,6 @@ class AdminApp:
                 cursor.close()
                 connection.close()
 
-
-
-
-
     def Scoot_Activity(self):
         self.clear_data_frame()
 
